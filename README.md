@@ -1,5 +1,6 @@
 # Potatso ![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
+<<<<<<< HEAD
 <a href="https://itunes.apple.com/app/apple-store/id1070901416?pt=2305194&ct=potatso.github&mt=8">![](https://cdn.rawgit.com/shadowsocks/Potatso/master/Download.svg)</a>
 
 Potatso is an iOS client that implements custom proxies with the leverage of Network Extension framework introduced by Apple since iOS 9.
@@ -94,4 +95,11 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
+
+
+This project is no longer being maintained. In a near future, all Potatso 1 users will be migrated to Potasto 2 which is GPL free and closed-source.
+
+A lot of people copied the project to App Store without following the license. What worse is that they've brought bad reputation to Potatso itself. 
+
+The open source of Potatso didn't go as I thought it should be. I love open source and I will find other ways to contribute to open source community. 
 
